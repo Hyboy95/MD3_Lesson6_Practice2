@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1",
+    "nodemon": "^2.0.22",
+    "string_decoder": "^1.3.0",
+    "url": "^0.11.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
